@@ -1,0 +1,15 @@
+Last edited 6/3/15 by Zac McChesney
+
+Each folder in this repository is a new project unless it starts with "{NotProject} ".
+
+Layout should follow this tree
+
+Root
+|
+---------------------------
+|                         |
+Project1                  Project2
+|                         |
+------------              ---------------
+|          |                 |          |
+README     Src (folder)      README     Src
